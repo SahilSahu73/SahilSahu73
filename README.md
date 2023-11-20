@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sahil.sanjay.sahu1@gmail.com**
 
-- ⚡ Fun fact **I am good at Problem Solving**
+- ⚡ Fun fact **I am good at Debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
