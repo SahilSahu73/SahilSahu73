@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Sahu</h1>
-<h3 align="center">A passionate Machine Learning and Deep Learning Enthusiast from SRM University, Kattankulathur, currently pursuing CSE with a specialization in AI & ML.</h3>
+<h3 align="center">A passionate Machine Learning and Deep Learning Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsahu73&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsahu73" /> </p>
 
